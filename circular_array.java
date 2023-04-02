@@ -1,5 +1,5 @@
 import java.util.*;
-class circular_array {
+public class circular_array {
     public static int xorsum(int n, int[] a){
         int[] b=new int[n*2];
         int sum=0;
